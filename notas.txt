@@ -1,2 +1,2 @@
 Línea 1: Proyecto de prueba rebase.
-Línea 2: Esta es la versió inicial del texto.
+Línea 2: Esta es la versión principal del poryecto en desarrollo.
