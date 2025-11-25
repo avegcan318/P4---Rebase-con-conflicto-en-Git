@@ -1,0 +1,2 @@
+Línea 1: Proyecto de prueba rebase.
+Línea 2: Esta es la versió inicial del texto.
