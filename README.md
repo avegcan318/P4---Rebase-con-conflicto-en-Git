@@ -18,4 +18,11 @@
    
   Se diferencian en que el **merge** es de una sola vez, al crear el commit. En cambio el **rebase**  una vez por cada commit en la rama que está siendo reubicada que cause conflicto (en   este caso, solo B).
 
+ ## Imágenes
+  **Imagen del historial en el main (master)**
   
+  ![Primera imagen con el git log en main](Main.png)
+
+  **Imagen del historial despues de ejecutar el Rebase**
+
+  ![Segunda imagen rebase](Rebase.png)
